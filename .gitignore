@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.chroma/
+data/documents/*.pdf
+.DS_Store
+venv/
+.vscode/
